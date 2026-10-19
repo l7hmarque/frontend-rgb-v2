@@ -1,0 +1,6 @@
+{
+  "name": "RGB — Sistema para Restaurantes e Hamburguerias | Prismatech",
+  "description": "Sistema de gestão completo para hamburguerias, lanchonetes e restaurantes: cardápio digital próprio sem taxas abusivas, KDS cozinha, PDV caixa, cupons, estoque e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
